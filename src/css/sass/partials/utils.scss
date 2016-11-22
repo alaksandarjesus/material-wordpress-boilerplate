@@ -6,18 +6,3 @@
 
 
 // clearfix: http://nicolasgallagher.com/micro-clearfix-hack/
-.clear {
-  &:before,
-  &:after {
-    content: " ";
-    display: table;
-  }
-
-  &:after {
-    clear: both;
-  }
-}
-
-.reset-box {
-  @include reset-box;
-}

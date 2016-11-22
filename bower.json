@@ -6,5 +6,23 @@
     "jquery": "~1.11.1",
     "modernizr": "~2.8.3",
     "normalize.css": "~3.0.1"
+  },
+  "homepage": "https://github.com/alaksandarjesus/material-wordpress-boilerplate.git",
+  "authors": [
+    "alaksandarjesus <alaksandarjesus@yahoo.co.in>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8"
   }
 }
