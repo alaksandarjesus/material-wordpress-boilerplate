@@ -1,4 +1,8 @@
-# [HTML5 Blank](http://html5blank.com)
+
+
+
+
+# Thanks & All Credits  To : - [HTML5 Blank](http://html5blank.com)
 
 Powerful shell for rapidly deploying your WordPress projects.
 
@@ -8,10 +12,10 @@ Powerful shell for rapidly deploying your WordPress projects.
 * Author : [Todd Motto](http://toddmotto.com) // [@toddmotto](http://twitter.com/toddmotto)
 
 
-## Getting Started with HTML5 Blank
+## Getting Started with HTML5 Blank Materialize CSS
 
 * Go to the Wordpress' theme folder (`.../wp-content/themes`)
-* In CLI, run: `git clone https://github.com/toddmotto/html5blank.git`
+* In CLI, run: `https://github.com/alaksandarjesus/material-wordpress-boilerplate.git`
 * `cd html5blank` and then `npm install` and then `bower install` (you'll need gulp install as well)
 * `gulp watch` will enable `livereload` and development version
 * `gulp build` for distribute version with minified `js` and `css` files
